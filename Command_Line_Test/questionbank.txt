@@ -1,0 +1,50 @@
+1) Which character is used to access shell variables?
+a. $
+b. #
+c. ~
+d. /
+2) Which command is used to display the contents of a file?
+a. cat
+b. bash
+c. tr
+d. echo
+3) Which command gives executable permission of a file to the user.
+a. more
+b. execute 
+c. chmod +x 
+d. touch
+4) Which keyword is used to end if condition?
+a. end
+b. fi
+c. exit
+d. close
+5) Which of the following loop is not present in shell scripting?
+a. while loop
+b. for loop
+c. do-while loop
+d. All of the above
+6) How can you print the total number of command line arguments?
+a. echo "$#"
+b. echo "$@"
+c. echo "$*"
+d. None of the above
+7) Which command can be used to get the ip address of the system?
+a. chown
+b. ipaddress
+c. network
+d. ifconfig
+8) Which is the proper syntax for command substitution?
+a. variable="command"
+b. variable=`command`
+c. echo variable $command
+d. tr variable command
+9) Command to display disk space usage.
+a. df
+b. ps
+c. du
+d. pwd
+10) Which command is used to delete a user from the system?
+a. delete
+b. remove
+c. nouser
+d. userdel       
